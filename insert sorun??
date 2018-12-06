@@ -1,0 +1,5 @@
+l= [1,2,3,66]
+l2 = l.insert(2,111)
+#l2= l
+print(l)
+print(l2)
